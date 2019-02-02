@@ -1,4 +1,4 @@
-This program was made by DarkHawk06 from Turk Hack Team.
+Bu program Turk Hack Team'den DarkHawk06 tarafından yapıldı.
 
 İndireceğiniz aia uzantılı dosyayı Projects> Upload .aia sekmesinden upload edip kullanabilirsiniz.
 
